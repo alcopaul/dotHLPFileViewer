@@ -1,7 +1,7 @@
 # dotHLPFileViewer
 Easy Install On Windows 11
 
-READMEFirst.txt For Instructions & 64bitHLP.cmd For Installation
+READMEFirst.txt For .HLP Files Info & 64bitHLP.cmd For Installation
 
 ~ alCoPaUL, beth GviLLErMo [GIMO], Brigada Ocho [b8]
-7/31/2025 NYC
+8/1/2025 NYC
