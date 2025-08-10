@@ -1,5 +1,5 @@
 # dotHLPFileViewer
-Easy Install On Windows 11
+Easy Install On Windows 11 x64
 
 READMEFirst.txt For .HLP Files Info & 64bitHLP.cmd For Installation
 
